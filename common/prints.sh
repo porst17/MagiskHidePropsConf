@@ -344,6 +344,7 @@ Samsung Galaxy S9 SM-G960F (8.0.0 & 10):Samsung:SM-G960F=samsung/starltexx/starl
 Samsung Galaxy S9 Plus SM-G965F (8.0.0):Samsung:SM-G965F=samsung/star2ltexx/star2lte:8.0.0/R16NW/G965FXXU1ARCC:user/release-keys
 Samsung Galaxy S10 SM-G973F (10 & 11):Samsung:SM-G973F=samsung/beyond1ltexx/beyond1:10/QP1A.190711.020/G973FXXS3BSL4:user/release-keys__2020-01-01;samsung/beyond1ltexx/beyond1:11/RP1A.200720.012/G973FXXSBFUF3:user/release-keys__2021-07-01
 Samsung Galaxy S10 SM-G973F Europe (11):Samsung:SM-G973F=samsung/beyond1lteeea/beyond1:11/RP1A.200720.012/G973FXXSBFUF3:user/release-keys__2021-07-01
+Samsung Galaxy S10 SM-G973F Europe (12):Samsung:SM-G973F=samsung/beyond1ltexx/beyond1:12/SP1A.210812.016/G973FXXUFHVE1:user/release-keys__2022-05-01
 Samsung Galaxy S10 SM-G973N (11):Samsung:SM-G973N=samsung/beyond1lteks/beyond1:11/RP1A.200720.012/G973NKSU6FUF5:user/release-keys__2021-07-01
 Samsung Galaxy S10 5G SM-G977B (11):Samsung:SM-G977B=samsung/beyondxxx/beyondx:11/RP1A.200720.012/G977BXXS8FUF3:user/release-keys__2021-07-01
 Samsung Galaxy S10 5G SM-G977N (11):Samsung:SM-G977N=samsung/beyondxks/beyondx:11/RP1A.200720.012/G977NKSU5FUF5:user/release-keys__2021-07-01
